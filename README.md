@@ -17,6 +17,6 @@ The website is connected to the Coingecko API, which is a popular source of data
 ![Screenshot_20230703-072107_1](https://github.com/Aninimo/CryptoCoin/assets/75839810/f35bfd25-ad05-4079-8002-cb85c0c440eb)
 
 ## Technologies used
-React
-Tailwind css
+React <br/>
+Tailwind css <br/>
 Coingecko API
