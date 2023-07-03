@@ -27,7 +27,7 @@ export function Coin(){
   const h24 = coin.market_data ? coin.market_data.price_change_24h : ""
   
   return(
-    <main className='lg:flex gap-24 p-4 md:flex-col'>
+    <main className='h-screen lg:flex gap-24 p-4 md:flex-col'>
       <div className='lg:ml-16'>
         {coin.image ? <img src={coin.image.large} className='mb-8'/> : null}
         <h2 className='text-3xl font-bold'>
