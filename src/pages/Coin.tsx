@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 import { useParams } from 'react-router-dom'
-import DOMPurify from 'domvpurify'
+import DOMPurify from 'dompurify'
 
 export function Coin(){
   const { coinId } = useParams();
