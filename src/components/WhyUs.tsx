@@ -2,7 +2,7 @@ import { Broadcast, Horse, Lightning, Package, Pencil, Wallet} from 'phosphor-re
 
 export function WhyUs(){
   return(
-    <div className='md:flex gap-8 mt-8 xl:flex-col'>
+    <div id='choose-us' className='md:flex gap-8 mt-8 xl:flex-col'>
       <div>
         <div className='w-80 flex gap-8 bg-slate-700 p-4 rounded mb-2'>
           <Wallet size={32}/>
