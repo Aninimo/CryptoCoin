@@ -1,0 +1,2 @@
+# CryptoCoin
+Crypto search app 🪙
