@@ -10,5 +10,8 @@ The website is connected to the Coingecko API, which is a popular source of data
 
 ## Screenshots of the Project 📸
 
+## Home Page 🏠
+![InShot_20230703_082959222_1_1](https://github.com/Aninimo/CryptoCoin/assets/75839810/17e6310d-a56a-494b-adc6-9738198bbfcd)
+
 ## Coin Page 🪙
 ![Screenshot_20230703-072107_1](https://github.com/Aninimo/CryptoCoin/assets/75839810/f35bfd25-ad05-4079-8002-cb85c0c440eb)
