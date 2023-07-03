@@ -1,6 +1,6 @@
 export function JoinUs(){
   return(
-    <div className='flex flex-col justify-center items-center mt-12'>
+    <div id='join' className='flex flex-col justify-center items-center mt-12'>
       <h1 className='font-bold text-2xl mb-4'>
         JOIN US
       </h1>
